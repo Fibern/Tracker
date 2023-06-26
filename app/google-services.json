@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "772736283352",
+    "project_id": "najlepszy-projekt-na-swiecie",
+    "storage_bucket": "najlepszy-projekt-na-swiecie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772736283352:android:6a55cc0af719cbc450ddad",
+        "android_client_info": {
+          "package_name": "com.example.tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772736283352-22uaatlr4etgf1t8jfp6jskb1jct7nvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXPQI273BWVhb9qfsnMHFnAxqcd6iAPtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772736283352-22uaatlr4etgf1t8jfp6jskb1jct7nvj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

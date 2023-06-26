@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Tracker</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="register">Register</string>
+    <string name="sing_in">Sing in</string>
+    <string name="confirm_password">Confirm password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Title</string>
+    <string name="date">Date</string>
+    <string name="title_search">Search</string>
+    <string name="data">Date:</string>
+    <string name="director">Director:</string>
+    <string name="writer">Writer:</string>
+    <string name="language">Language:</string>
+    <string name="country">Country:</string>
+    <string name="remove_from_watched">Remove from watched</string>
+    <string name="add_to_watched">Add to watched</string>
+
+</resources>
